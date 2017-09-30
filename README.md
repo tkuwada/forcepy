@@ -1,10 +1,12 @@
 # forcepy
 Salesforce libraries for SOAP, REST API that is easy to use like jsforce.
 
-#caution
-under development
 
-#funcions
+## Caution
+- under development
+
+
+## Funcions
 - login
 - query
 - create
@@ -13,5 +15,15 @@ under development
 - delete
 - etc...
 
-#future it will be supported
+
+## Exsample
+
+
+## Future it will be supported
 - database manipulation library in pandas of DataFrame.
+
+
+## Requirement
+
+
+## Installation
